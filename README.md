@@ -4,8 +4,8 @@ The GNU Make 3rd edition PDF of Japanese.
 
 概要
 ====
-ビルドに欠かせないツールmakeの、オライリー・ジャパン発行の書籍「GNU Mkae 第3版」のPDFです。  
-下記URLに公開のデータを結合して一つにまとめたものです。
+ビルドに欠かせないツールmakeの、オライリー・ジャパン発行の書籍「GNU Make 第3版」のPDF。  
+下記URLに公開のデータを結合して一つにまとめたもの。
 
 <http://www.oreilly.co.jp/library/4873112699/>
 
@@ -16,6 +16,11 @@ makeは、Unixのプログラム開発や各種ソフトウェアのインスト
 ==========
 [GNU Free Documentation License](https://ja.wikipedia.org/wiki/GNU_Free_Documentation_License)
 
+PDF編集利用ソフト
+=================
+Adobe Acrobat Pro DC for mac
+
 履歴
 ====
 * 2016/08/28 新規作成（公開のPDFデータを結合）
+* 2016/08/28 目次の各章へのリンク追加，ページ空白調整
